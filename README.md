@@ -5,7 +5,7 @@ Survey Data Analysis Tool
 
 Kongari Abhinav— 2420030263
 Aluru Sri Tejaswi Priyank — 2420030276
-
+Sai Vinesh - 2420030691
 3. Supervisor
 Dr. N. Sunanda
 
